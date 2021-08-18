@@ -1,5 +1,6 @@
 <script context="module">
 	export const prerender = true;
+	
 </script>
 
 <script>
@@ -11,4 +12,6 @@
 
 <section>
 	<h1>Open Stock Data</h1>
+
+	<a href="/test">Go to Test</a>
 </section>

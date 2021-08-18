@@ -1,5 +1,6 @@
 {
-  "name": "Open Stock Data",
+  "type": "module",
+  "name": "open-stock-data",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -16,8 +17,8 @@
     "svelte": "^3.34.0",
     "tailwindcss": "^2.2.7"
   },
-  "type": "module",
   "dependencies": {
-    "lightweight-charts": "^3.5.0"
+    "lightweight-charts": "^3.5.0",
+    "svelte-routing": "^1.6.0"
   }
 }
